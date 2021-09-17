@@ -1,3 +1,3 @@
 # Страница с домашними заданиями по курсу "КИЛИ" 
 **студентки Еду Дарьи**
-> young and beautifull
+> young and beautiful
