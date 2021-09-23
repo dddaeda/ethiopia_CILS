@@ -27,4 +27,6 @@
 В опросе не участвовали носители других языков, кроме  русского языка.
 ![таблица](![t8ZjVMkTl9g](https://user-images.githubusercontent.com/90916818/134589684-e4f01e16-fc85-4ace-ab9a-4a6e387fbd8b.jpg)
 ![данные](![gpuL8WeQB4I](https://user-images.githubusercontent.com/90916818/134589779-da4de4a0-1381-4886-ae7e-1e553e906f32.jpg)
-
+> Ссылки на таблицу и форму
+<https://docs.google.com/forms/d/e/1FAIpQLSd51htJHRu9CgHSyfVOEekLM19_B01BIz8wmZwr5gHE7pFVxw/viewform>
+<https://docs.google.com/spreadsheets/d/1wnRJkEePjiohdf81iIx_-8smBE7f6F13CcCpSrflyYU/edit?usp=sharing>
